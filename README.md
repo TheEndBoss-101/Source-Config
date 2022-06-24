@@ -7,6 +7,4 @@
  |_____/  \____/  \____/ |_|  \_\ \_____||______|  \_____|\____/ |_| \_||_|     |_____|\_____|
 ```
 
-Hello, World!  
-
-# NOTE HAS BEED DELETED ACCADENTLY! IN HEAVY RECONSTRUCTION!
+Hello, World!
